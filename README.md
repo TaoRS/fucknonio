@@ -1,8 +1,8 @@
-<p align=center>
+<div align=center>
 
 ![logo](assets/fucknonio.png "Logo") 
 
-</p>
+</div>
 
 
 # fucknonio
