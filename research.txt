@@ -1,0 +1,4 @@
+
+document.getElementById('layer_gattingLN506a75e887198ae510a2c9d5fc90a125').style.display = "none";
+document.getElementsByTagName('html')[0].style.overflow = "initial";
+document.getElementsByTagName('body')[0].style.overflow = "initial";

@@ -1,2 +1,3 @@
 # fucknonio
-just fuck nonio...
+
+This is a Chrome extension to block out Nonio popups.
