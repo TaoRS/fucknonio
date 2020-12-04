@@ -26,6 +26,13 @@ function getNonioElement() {
         }
     }
 
+    //ID changes everyday if the website is not using Angular, grabbem by the class
+    if (!el) {
+        if (document.getElementsByClassName('gatting_login')[0]) {
+            el = document.getElementsByClassName('gatting_login')[0].parentNode.parentNode;
+        }
+    }
+
     return el;
 }
 
